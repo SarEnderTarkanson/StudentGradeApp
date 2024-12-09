@@ -1,0 +1,14 @@
+C:\Users\atark\Desktop\StudentGradeApp\bin\Debug\net9.0\StudentGradeApp.exe
+C:\Users\atark\Desktop\StudentGradeApp\bin\Debug\net9.0\StudentGradeApp.deps.json
+C:\Users\atark\Desktop\StudentGradeApp\bin\Debug\net9.0\StudentGradeApp.runtimeconfig.json
+C:\Users\atark\Desktop\StudentGradeApp\bin\Debug\net9.0\StudentGradeApp.dll
+C:\Users\atark\Desktop\StudentGradeApp\bin\Debug\net9.0\StudentGradeApp.pdb
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.AssemblyInfoInputs.cache
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.AssemblyInfo.cs
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.csproj.CoreCompileInputs.cache
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.dll
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\refint\StudentGradeApp.dll
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.pdb
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\StudentGradeApp.genruntimeconfig.cache
+C:\Users\atark\Desktop\StudentGradeApp\obj\Debug\net9.0\ref\StudentGradeApp.dll
